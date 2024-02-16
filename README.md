@@ -5,26 +5,26 @@ This is a simple project of TypeScript for making a triangle of * with for loops
 
 
 
-## Authors
+## Author:
 Muhammad Tahir Iqbal. 
-
 https://github.com/qazimtahir/
 
+## Tools used:
+VS Code.
 
-## Demo
+NODE JS
 
-https://github.com/qazimtahir/TS-StarsPrinting/blob/main/printingStars.png
+TypeScript
 
 ## Screenshots
-
-![App Screenshot](hhttps://github.com/qazimtahir/TS-StarsPrinting/blob/main/printingStars.png)
+![App Screenshot](https://github.com/qazimtahir/TS-StarsPrinting/blob/main/printingStars.png?raw=true)
 
 ## 🚀 About Me
-Muhammad Tahir Iqbal.
 
 Generative AI Engineer.
 Master of Computer Sciences.
 
-I'm a full stack developer...
+I'm a full-stack developer...
 
-
+## Date:
+Friday, February 16, 2024.
